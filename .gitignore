@@ -1,3 +1,6 @@
+# Don't .gitignore ipscend.json, this is just for demo purposes
+.ipscend.json
+
 # Logs
 logs
 *.log

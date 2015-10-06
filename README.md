@@ -1,2 +1,4 @@
-# ipsurge-example
-Example application using ipsurge 
+ipscend-example
+===============
+
+> Demo app to demonstrate ipscend features
